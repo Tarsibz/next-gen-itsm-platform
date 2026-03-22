@@ -43,9 +43,4 @@ The remaining services were implemented with simplified configurations to demons
 - VPN Access
 - Distribution List Request
 
-These services include basic request forms and standard workflows (To Do → In Progress → Done) without complex approvals or automation.
-
-This approach ensures:
-- full coverage of the service catalog
-- consistency with the platform design
-- efficient implementation within the scope of the prototype
+While these services may require approvals in real-world scenarios, simplified configurations were used in the prototype to maintain focus on key workflows.
